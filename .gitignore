@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow specific files/directories
+!index.html
+!소노 이력서.html
+!assets/
+!assets/**
+!.nojekyll
+!.gitignore
